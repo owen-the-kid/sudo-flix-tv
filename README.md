@@ -1,2 +1,2 @@
 # sudo-flix-tv
-An samsung tv adaptation of sudo-flix
+A Samsung TV adaptation of sudo-flix
