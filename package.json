@@ -10,6 +10,3 @@
   "repository": {
     "url": "https://github.com/owen-the-kid/sudo-flix-tv"
   },
-  <tizen:privilege name='http://tizen.org/privilege/tv.inputdevice'>
-  </tizen:privilege> 
-  
