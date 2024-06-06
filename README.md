@@ -1,2 +1,2 @@
 # sudo-flix-tv
-A Samsung TV adaptation of sudo-flix
+early building phase you could help but i am trying my best to do this
