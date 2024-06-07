@@ -9,7 +9,7 @@
     document.head.appendChild(script);
 
     function initSpatialNavigation() {
-        const focusableElements = document.querySelectorAll('a, .focusable, div.flex, input[type=text]');
+        const focusableElements = document.querySelectorAll('a, .focusable, div.flex, input[type=text], div.flare-light');
 
         focusableElements.forEach(element => {
             element.addEventListener('focus', () => {
@@ -31,4 +31,5 @@
         }
     }
 })();
+
 
