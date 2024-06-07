@@ -14,10 +14,12 @@
         focusableElements.forEach(element => {
             element.addEventListener('focus', () => {
                 element.style.outline = '2px solid red';
+                element.style.border = '2px solid red';
             });
 
             element.addEventListener('blur', () => {
                 element.style.outline = '';
+                element.style.border = '';
             });
         });
 
@@ -31,5 +33,6 @@
         }
     }
 })();
+
 
 
